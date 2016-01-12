@@ -21,6 +21,9 @@
     
     
     NSLog(@"wertyuio");
+    
+    
+    NSLog(@"我懂啊");
 }
 
 - (void)didReceiveMemoryWarning {
